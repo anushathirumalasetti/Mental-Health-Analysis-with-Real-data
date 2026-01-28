@@ -94,7 +94,8 @@ This ensures meditation initiatives are **data-backed rather than assumption-dri
 * **Data Visualization & Storytelling**
 * **Public Health Data Interpretation**
 
----
+<img width="1592" height="557" alt="image" src="https://github.com/user-attachments/assets/e589576c-5e02-4eaf-abe4-3b198bd14105" />
+
 
 ## 💡 Skills Demonstrated
 
